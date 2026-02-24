@@ -1,8 +1,5 @@
 # 📊 Análise de Churn de Clientes de Cartão de Crédito
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]
-(https://colab.research.google.com/github/Jeanlucca12/analise-churn-cartao-credito/blob/main/notebooks/analise_churn_clientes_portfolio.ipynb)
-
 ## 📌 Objetivo do Projeto
 Este projeto tem como objetivo realizar uma **análise exploratória de dados (EDA)** para identificar
 padrões associados ao **cancelamento de cartões de crédito (churn)**, auxiliando na compreensão
